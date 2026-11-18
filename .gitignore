@@ -1,3 +1,5 @@
 .DS_Store
 *.pyc
 __pycache__/
+# Full auto-captions remain in the private vault; no raw transcripts in public Git.
+plugins/bui-ngoc-son-knowledge/knowledge/.local-transcripts/
