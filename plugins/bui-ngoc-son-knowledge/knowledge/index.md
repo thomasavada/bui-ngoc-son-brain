@@ -5,7 +5,7 @@ Unofficial source-grounded learning plugin built from **20 VTC NEWS interviews**
 ## Start
 
 1. [How to use evidence](foundations/evidence.md) — guest vs host, claim vs fact.
-2. [Reasoning and expression](foundations/expression.md) — transferable explanation method, not impersonation.
+2. [Reasoning and expression](foundations/expression.md) — transferable explanation method, not impersonation. For a user-endorsed *depth* reference, see the [long-form AI-bubble worked example](examples/ai-bubble-long-answer.md); it is hypothetical, not a quote.
 3. [Reviewed sources](sources/index.md) — 20 cards; each links to YouTube timestamps.
 4. [AI, chips and labor](concepts/ai-technology.md)
 5. [Economics and markets](concepts/economics.md)
