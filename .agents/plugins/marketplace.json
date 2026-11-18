@@ -1,0 +1,20 @@
+{
+  "name": "bui-ngoc-son-brain",
+  "interface": {
+    "displayName": "Bùi Ngọc Sơn Brain"
+  },
+  "plugins": [
+    {
+      "name": "bui-ngoc-son-knowledge",
+      "source": {
+        "source": "local",
+        "path": "./plugins/bui-ngoc-son-knowledge"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "bui-ngoc-son-brain",
+  "owner": {
+    "name": "Unofficial Bùi Ngọc Sơn Brain"
+  },
+  "metadata": {
+    "description": "Source-grounded VTC NEWS interview brain; not affiliated with the guest or broadcaster."
+  },
+  "plugins": [
+    {
+      "name": "bui-ngoc-son-knowledge",
+      "source": "./plugins/bui-ngoc-son-knowledge",
+      "version": "0.1.0",
+      "description": "20 reviewed VTC interviews; /ask-son, /teach-son, /check-son-claim.",
+      "category": "productivity"
+    }
+  ]
+}
